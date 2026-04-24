@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  🔧 Profissional de TI (N3) | 🎮 Desenvolvedor de Jogos | 🤖 Entusiasta IA & Automação
+  🔧 Profissional de TI | 🎮 Desenvolvedor de Jogos | 🤖 Entusiasta IA & Automação
 </h3>
 
 <div align="center">
