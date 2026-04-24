@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Rodrigo Pissolato 👋</h1>
+<h1 align="center"> Rodrigo Pissolato </h1>
 
 <h3 align="center">Profissional de TI (N3) | Desenvolvedor de Jogos & Automação</h3>
 
