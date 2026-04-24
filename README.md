@@ -38,9 +38,9 @@
 
 <div align="center">
   <a href="https://github.com/SEU_USUARIO_AQUI/NOME_DO_REPO_KALDMOR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_AQUI&repo=NOME_DO_REPO_KALDMOR&theme=omni&hide_border=true&bg_color=0D1117" alt="Kaldmor" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pissolato32&repo=Kaldmor-&theme=omni&hide_border=true&bg_color=0D1117" alt="Kaldmor" />
   </a>
   <a href="https://github.com/SEU_USUARIO_AQUI/NOME_DO_REPO_SBTB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_AQUI&repo=NOME_DO_REPO_SBTB&theme=omni&hide_border=true&bg_color=0D1117" alt="SimuTrader Binance Bot" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pissolato32&repo=SBTB&theme=omni&hide_border=true&bg_color=0D1117" alt="SimuTrader Binance Bot" />
   </a>
 </div>
