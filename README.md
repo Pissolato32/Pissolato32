@@ -28,8 +28,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=omni&hide_border=true&bg_color=0D1117" alt="Estatísticas do Rodrigo" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pissolato32&show_icons=true&theme=omni&hide_border=true&bg_color=0D1117" alt="Estatísticas do Rodrigo" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pissolato32&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" width="48%" />
 </div>
 
 <br>
@@ -37,10 +37,10 @@
 ### 🏆 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO_AQUI/NOME_DO_REPO_KALDMOR">
+  <a href="https://github.com/Pissolato32/Kaldmor-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pissolato32&repo=Kaldmor-&theme=omni&hide_border=true&bg_color=0D1117" alt="Kaldmor" />
   </a>
-  <a href="https://github.com/SEU_USUARIO_AQUI/NOME_DO_REPO_SBTB">
+  <a href="https://github.com/Pissolato32/SBTB">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pissolato32&repo=SBTB&theme=omni&hide_border=true&bg_color=0D1117" alt="SimuTrader Binance Bot" />
   </a>
 </div>
