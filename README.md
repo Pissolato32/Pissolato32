@@ -4,14 +4,14 @@
 </h1>
 
 <h3 align="center">
-  🔧 Profissional de TI | 🎮 Desenvolvedor de Jogos | 🤖 Entusiasta IA & Automação
+  🔧 Profissional de TI (N3) | 🎮 Desenvolvedor de Jogos | 🤖 Entusiasta IA & Automação
 </h3>
 
 <div align="center">
   <a href="https://github.com/Pissolato32" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="www.linkedin.com/in/rodrigo-pissolato-a8126930" target="_blank">
+  <a href="https://linkedin.com/in/rodrigo-pissolato-a8126930" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" alt="Status"/>
@@ -180,3 +180,112 @@ Desenvolvededor apaixonado por **criar experiências digitais de impacto** atrav
 ---
 
 ## 💡 Filosofia de Desenvolvimento
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                      │
+│  1️⃣  CÓDIGO PRIMEIRO                               │
+│      ✓ TypeScript para type-safety total           │
+│      ✓ ESLint + Prettier obrigatórios              │
+│      ✓ Conventional Commits em todas as branches   │
+│      ✓ No magic: código legível > inteligente      │
+│                                                      │
+│  2️⃣  TESTES ROBUSTOS                               │
+│      ✓ 80%+ coverage para lógica crítica           │
+│      ✓ CI/CD automático com GitHub Actions         │
+│      ✓ Load testing com k6 para produção           │
+│      ✓ Testes end-to-end em scenarios reais        │
+│                                                      │
+│  3️⃣  DOCUMENTAÇÃO CLARA                            │
+│      ✓ READMEs detalhados em todos os repos        │
+│      ✓ Architecture Decision Records (ADR)         │
+│      ✓ Exemplos funcionais em cada feature         │
+│      ✓ Comentários apenas para WHY, não WHAT       │
+│                                                      │
+│  4️⃣  ESCALABILIDADE DESDE O INÍCIO                 │
+│      ✓ Monorepos com pnpm + Turborepo              │
+│      ✓ Microserviços quando necessário             │
+│      ✓ Caching inteligente (Redis)                 │
+│      ✓ Database design pensado em crescimento      │
+│                                                      │
+│  5️⃣  SEGURANÇA BUILT-IN                            │
+│      ✓ Validação SEMPRE server-side                │
+│      ✓ CORS + rate-limiting proativo               │
+│      ✓ Secrets management com .env                 │
+│      ✓ Nunca confiar em input do cliente           │
+│                                                      │
+│  6️⃣  EXPERIÊNCIA DO USUÁRIO                        │
+│      ✓ Performance é feature                       │
+│      ✓ Acessibilidade desde o design               │
+│      ✓ Feedback visual para todas as ações         │
+│      ✓ Graceful degradation sempre                 │
+│                                                      │
+└─────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+## 📚 Recursos Favoritos
+
+| Categoria | Recurso | Link |
+|-----------|---------|------|
+| **Arquitetura** | System Design Primer | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) |
+| **Game Dev** | Phaser Documentation | [phaser.io](https://phaser.io) |
+| **Backend** | Node.js Best Practices | [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) |
+| **IA/ML** | Vercel AI SDK | [sdk.vercel.ai](https://sdk.vercel.ai) |
+| **Escalabilidade** | Colyseus | [colyseus.io](https://colyseus.io/) |
+| **DevOps** | Docker Best Practices | [docs.docker.com](https://docs.docker.com) |
+
+<br/>
+
+---
+
+## 🤝 Vamos Colaborar!
+
+Estou sempre aberto a **contribuições, parcerias e feedback construtivo**. Se você acha meu trabalho interessante:
+
+- ⭐ **Star** nos repositórios que gostar
+- 🍴 **Fork** e contribua com PRs bem estruturadas
+- 💬 **Abra issues** com sugestões e bugs
+- 📧 **Entre em contato** via GitHub ou LinkedIn
+- 🔗 **Compartilhe** meu trabalho se achar útil
+
+<br/>
+
+---
+
+## 📈 Próximos Objetivos (2026)
+
+- [ ] 🚀 Publicar SBTB como pacote npm no registry
+- [ ] 🎮 Completar Kaldmor v1.0 com todos os sistemas de jogo
+- [ ] 📱 Deploy escalável de DeadZone em produção
+- [ ] 📝 Escrever paper sobre otimizações de netcode em MMORPGs
+- [ ] 🌟 Contribuir mais ativamente a projetos open-source
+- [ ] 🎓 Documentação completa de cada projeto
+- [ ] 🔗 Criar comunidade de devs ao redor dos projetos
+
+<br/>
+
+---
+
+<div align="center">
+  <h3>Feito com 💚 por um desenvolvedor que ama resolver problemas complexos</h3>
+  
+  <p>
+    <a href="https://github.com/Pissolato32?tab=repositories">
+      <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Projetos-181717?style=for-the-badge&logo=github" alt="View All Projects"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://linkedin.com/in/rodrigo-pissolato-a8126930">
+      <img src="https://img.shields.io/badge/Conecte%20Comigo-0077B5?style=for-the-badge&logo=linkedin" alt="Connect"/>
+    </a>
+  </p>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=Pissolato32&style=flat-square&color=blue)
+  
+  <p>
+    <em>⚡ Sempre aprendendo, sempre codando, sempre melhorando ⚡</em>
+  </p>
+</div>
