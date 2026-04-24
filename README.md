@@ -11,7 +11,7 @@
   <a href="https://github.com/Pissolato32" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/rodrigo-pissolato" target="_blank">
+  <a href="www.linkedin.com/in/rodrigo-pissolato-a8126930" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" alt="Status"/>
